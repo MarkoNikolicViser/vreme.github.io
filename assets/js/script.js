@@ -1,4 +1,4 @@
-$.getJSON("http://api.openweathermap.org/data/2.5/weather?lat=44.8&lon=20.47&units=metric&appid=59021a59254dc38de83f299e615ede17",function(data1){
+$.getJSON("https://api.openweathermap.org/data/2.5/weather?lat=44.8&lon=20.47&units=metric&appid=59021a59254dc38de83f299e615ede17",function(data1){
 
 console.log(data1);
 
@@ -24,7 +24,7 @@ $('.temp_max').append(temp_max);
 });
 
 
-$.getJSON("http://api.openweathermap.org/data/2.5/weather?lat=45.25&lon=19.84&units=metric&appid=59021a59254dc38de83f299e615ede17",function(data1){
+$.getJSON("https://api.openweathermap.org/data/2.5/weather?lat=45.25&lon=19.84&units=metric&appid=59021a59254dc38de83f299e615ede17",function(data1){
 
 console.log(data1);
 
@@ -49,7 +49,7 @@ $('.temp_max1').append(temp_max1);
 
 });
 
-$.getJSON("http://api.openweathermap.org/data/2.5/weather?lat=43.32&lon=21.9&units=metric&appid=59021a59254dc38de83f299e615ede17",function(data1){
+$.getJSON("https://api.openweathermap.org/data/2.5/weather?lat=43.32&lon=21.9&units=metric&appid=59021a59254dc38de83f299e615ede17",function(data1){
 
 console.log(data1);
 
@@ -75,7 +75,7 @@ $('.temp_max2').append(temp_max1);
 });
 
 
-$.getJSON("http://api.openweathermap.org/data/2.5/weather?lat=44.02&lon=20.92&units=metric&appid=59021a59254dc38de83f299e615ede17",function(data1){
+$.getJSON("https://api.openweathermap.org/data/2.5/weather?lat=44.02&lon=20.92&units=metric&appid=59021a59254dc38de83f299e615ede17",function(data1){
 
 console.log(data1);
 
